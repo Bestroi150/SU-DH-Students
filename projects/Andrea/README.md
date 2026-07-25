@@ -11,11 +11,11 @@ This project presents a sample dataset of ancient coins, demonstrating principle
 
 ### Learning Objectives
 
-- ✓ Structure numismatic data in tidy tabular format
-- ✓ Handle categorical variables (material, denomination, mint)
-- ✓ Create reusable, machine-readable datasets
-- ✓ Design data for both spreadsheet analysis and database import
-- ✓ Implement data validation and quality checks
+-  Structure numismatic data in tidy tabular format
+-  Handle categorical variables (material, denomination, mint)
+-  Create reusable, machine-readable datasets
+-  Design data for both spreadsheet analysis and database import
+-  Implement data validation and quality checks
 
 ## Dataset Description
 
@@ -42,11 +42,11 @@ A spreadsheet containing structured data about ancient coins, with one observati
 
 This dataset follows these standards:
 
-✓ **Consistency:** All fields use consistent formatting and terminology  
-✓ **Completeness:** Missing values explicitly marked (NA, N/A, or blank where appropriate)  
-✓ **Uniqueness:** Each coin has a unique ID  
-✓ **Validity:** All entries conform to expected data types and value ranges  
-✓ **Accuracy:** Data verified against numismatic sources
+- **Consistency:** All fields use consistent formatting and terminology  
+- **Completeness:** Missing values explicitly marked (NA, N/A, or blank where appropriate)  
+- **Uniqueness:** Each coin has a unique ID  
+- **Validity:** All entries conform to expected data types and value ranges  
+- **Accuracy:** Data verified against numismatic sources
 
 ## Working with the Data
 
@@ -154,11 +154,11 @@ You may:
 ## Citation
 
 **In-text citation:**
-> The numismatic dataset was structured following tidy data principles (Andrea, 2025-2026).
+> The numismatic dataset was structured following tidy data principles (Andrea Georgieva, 2025-2026).
 
 **Full citation:**
 ```
-Andrea. Ancient Coins Sample. 
+Andrea Geotgieva. Ancient Coins Sample. 
 Foundations of Humanities Data Modeling and Formats Course. 2025-2026.
 https://github.com/Bestroi150/student-projects-showcase/tree/main/projects/Andrea
 ```
