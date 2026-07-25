@@ -57,57 +57,93 @@ SU-DH-Students/
 
 ## Featured Projects
 
-### Andrea: Ancient Coins Sample
+# Sample Datasets
+
+This repository contains sample datasets covering a range of Digital Humanities workflows, including numismatics, epigraphy, historical geography, linguistic annotation, text analysis, and 3D cultural heritage documentation.
+
+## Andrea Georgieva
+
+### Ancient Coins
 **Focus:** Numismatic data in tabular format
+
 - **Format:** CSV (tidy data)
-- **Fields:** Coin ID, denomination, metal, mint, date, provenance
-- **Learning objectives:** Data normalization, handling categorical data
+- **Content:** Coin identifiers, denomination, metal, mint, date, and provenance
+- **Learning objectives:**
+  - Data normalization
+  - Handling categorical data
+  - Tabular data organization
 
-### Ekaterina: Ancient Inscriptions
+---
+
+## Ekaterina Dimitrova
+
+### Ancient Inscriptions
 **Focus:** Epigraphic data in structured markup
-- **Format:** XML (TEI-compliant)
+
+- **Format:** TEI XML
 - **Content:** Ancient inscription transcriptions and metadata
-- **Learning objectives:** Semantic markup, document structure, metadata encoding
+- **Learning objectives:**
+  - Semantic markup
+  - Document structure
+  - Metadata encoding
 
-### Elitsa: Multi-sheet Dataset Analysis
-**Focus:** Comparative tabular data
-- **Format:** Three CSV files
-- **Content:** Related datasets for comparative analysis
-- **Learning objectives:** Data relationships, referential integrity, linking datasets
+### Morphological Database
+**Focus:** Linguistic annotation and morphological analysis
 
-### Irina: Greek Colonization on the Black Sea
-**Focus:** Historical-geographic data
-- **Format:** CSV with geographic data
-- **Fields:** Settlement name, coordinates, founding date, colonizing city, material culture
-- **Learning objectives:** Spatial data representation, GIS concepts, historical dataset design
-
-### Irina Koleva: Digital Humanities Analysis - Satyricon Chapter 76
-**Focus:** Humanities text analysis using multiple DH tools
-- **Format:** TEI XML, CSV, Excel analysis
-- **Content:** Multi-method analysis of Petronius' Satyricon, Chapter 76
-- **Learning objectives:** Markup semantics, quantitative and qualitative analysis, tool integration
-
-### Ekaterina Dimitrova: Multiple Projects
-**Focus 1 (Inscriptions):** Epigraphic data in structured markup
-- **Format:** XML (TEI-compliant)
-- **Content:** Ancient inscription transcriptions and metadata
-- **Learning objectives:** Semantic markup, document structure, metadata encoding
-
-**Focus 2 (Morphological Database):** Linguistic annotation and morphological analysis
-- **Format:** Relational CSV sheets
+- **Format:** Relational CSV datasets
 - **Content:** 39 sentences from Pliny the Younger's *Epistulae* 6.16 with detailed morphological annotation
-- **Learning objectives:** Structured linguistic data, controlled vocabularies, quantitative corpus analysis
+- **Learning objectives:**
+  - Structured linguistic data
+  - Controlled vocabularies
+  - Quantitative corpus analysis
 
-### Elitsa: Multiple Projects
-**Focus 1:** Comparative tabular data
-- **Format:** Three CSV files
-- **Content:** Related datasets for comparative analysis
-- **Learning objectives:** Data relationships, referential integrity, linking datasets
+---
 
-**Focus 2 (Databases):** 3D modeling and database structures
-- **Format:** XML (METS), 3D model files (OBJ/MTL)
-- **Content:** Roman inscriptions with 3D models and measurements
-- **Learning objectives:** Structured data for complex artifacts, 3D model documentation
+## Elitsa Lilova
+
+### Comparative Dataset Analysis
+**Focus:** Comparative tabular data
+
+- **Format:** Three related CSV files
+- **Content:** Interconnected datasets for comparative analysis
+- **Learning objectives:**
+  - Data relationships
+  - Referential integrity
+  - Linking datasets
+
+### Roman Inscriptions and 3D Models
+**Focus:** Cultural heritage databases and 3D documentation
+
+- **Format:** METS XML and 3D model files (OBJ/MTL)
+- **Content:** Roman inscriptions with associated 3D models and measurements
+- **Learning objectives:**
+  - Complex data structures
+  - 3D model documentation
+  - Cultural heritage metadata
+
+---
+
+## Irina Koleva
+
+### Greek Colonization on the Black Sea
+**Focus:** Historical and geographic data
+
+- **Format:** CSV with geographic information
+- **Content:** Settlement names, coordinates, founding dates, colonizing cities, and material culture
+- **Learning objectives:**
+  - Spatial data representation
+  - GIS concepts
+  - Historical dataset design
+
+### Digital Humanities Analysis: *Satyricon*, Chapter 76
+**Focus:** Integrated Digital Humanities text analysis
+
+- **Format:** TEI XML, CSV, and Excel
+- **Content:** Multi-method analysis of Petronius' *Satyricon* (Chapter 76)
+- **Learning objectives:**
+  - TEI markup semantics
+  - Quantitative and qualitative text analysis
+  - Integration of multiple Digital Humanities tools
 
 ## Key Learning Outcomes
 
