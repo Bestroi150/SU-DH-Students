@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <mets:metsHdr CREATEDATE="2026-06-05">
+    <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <mets:name>Sofia University Project</mets:name>
+    </mets:agent>
+  </mets:metsHdr>
+
+  <mets:dmdSec ID="dmd1">
+    <mets:mdWrap MDTYPE="DC">
+      <mets:xmlData>
+        <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">
+           Inscriptions – Images and 3D Models
+        </dc:title>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+
+  <mets:fileSec>
+
+    <mets:fileGrp USE="REFERENCE_IMAGES">
+
+      <mets:file ID="IMG_2" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="2.jpg"/>
+      </mets:file>
+
+      <mets:file ID="IMG_6" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="6.jpg"/>
+      </mets:file>
+
+      <mets:file ID="IMG_7" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="7.jpg"/>
+      </mets:file>
+
+      <mets:file ID="IMG_8" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="8.jpg"/>
+      </mets:file>
+
+      <mets:file ID="IMG_RI" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="Roman_inscription.jpg"/>
+      </mets:file>
+
+    </mets:fileGrp>
+
+    <mets:fileGrp USE="3D_MODELS">
+
+      <mets:file ID="OBJ_2" MIMETYPE="model/obj">
+        <mets:FLocat LOCTYPE="URL" xlink:href="2/3DModel.obj"/>
+      </mets:file>
+
+      <mets:file ID="MTL_2" MIMETYPE="text/plain">
+        <mets:FLocat LOCTYPE="URL" xlink:href="2/3DModel.mtl"/>
+      </mets:file>
+
+      <mets:file ID="TEX_2" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="URL" xlink:href="2/3DModel.jpg"/>
+      </mets:file>
+
+      <mets:file ID="OBJ_6" MIMETYPE="model/obj">
+        <mets:FLocat LOCTYPE="URL" xlink:href="6/3DModel.obj"/>
+      </mets:file>
+
+      <mets:file ID="OBJ_7" MIMETYPE="model/obj">
+        <mets:FLocat LOCTYPE="URL" xlink:href="7/3DModel.obj"/>
+      </mets:file>
+
+      <mets:file ID="OBJ_8" MIMETYPE="model/obj">
+        <mets:FLocat LOCTYPE="URL" xlink:href="8/3DModel.obj"/>
+      </mets:file>
+
+      <mets:file ID="OBJ_RI" MIMETYPE="model/obj">
+        <mets:FLocat LOCTYPE="URL"
+                     xlink:href="Roman_inscription/3DModel.obj"/>
+      </mets:file>
+
+    </mets:fileGrp>
+
+  </mets:fileSec>
+
+  <mets:structMap TYPE="logical">
+
+    <mets:div TYPE="collection"
+              LABEL="Roman Epigraphic Monuments">
+
+      <mets:div TYPE="inscription" LABEL="2">
+        <mets:fptr FILEID="IMG_2"/>
+        <mets:fptr FILEID="OBJ_2"/>
+        <mets:fptr FILEID="MTL_2"/>
+        <mets:fptr FILEID="TEX_2"/>
+      </mets:div>
+
+      <mets:div TYPE="inscription" LABEL="6">
+        <mets:fptr FILEID="IMG_6"/>
+        <mets:fptr FILEID="OBJ_6"/>
+      </mets:div>
+
+      <mets:div TYPE="inscription" LABEL="7">
+        <mets:fptr FILEID="IMG_7"/>
+        <mets:fptr FILEID="OBJ_7"/>
+      </mets:div>
+
+      <mets:div TYPE="inscription" LABEL="8">
+        <mets:fptr FILEID="IMG_8"/>
+        <mets:fptr FILEID="OBJ_8"/>
+      </mets:div>
+
+      <mets:div TYPE="inscription"
+                LABEL="Roman_inscription">
+        <mets:fptr FILEID="IMG_RI"/>
+        <mets:fptr FILEID="OBJ_RI"/>
+      </mets:div>
+
+    </mets:div>
+
+  </mets:structMap>
+
+</mets:mets>

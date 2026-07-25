@@ -1,0 +1,38 @@
+﻿ID,ColonyGreekName,ColonyLatinName,Latitude,Longitude,Metropolis,FoundationCenturyBC,EarliestАrchaeologicalMaterialCenturyBC,Notes
+1,Istros,Istrus,44.5477874,28.77512875,Miletus,7,NA,NA
+2,Tomoi,Tomis,44.1728565,28.6497375,Miletus,6,6,NA
+3,Kallatis,None,43.81551993,28.53577184,Heraclea Pontica,6,4,NA
+4,Odessos,Odessus,43.2061605,27.9134725,Miletus,6,6,NA
+5,Anchiale,Anchialus,42.555937,27.641374,Apollonia Pontica,5,NA,NA
+6,Mesembria,Mesambria Pontica,42.65958,27.7244435,Megara,5,6,NA
+7,Apollonia,Apollonia Pontica,42.420355,27.694272,Miletus,7,7,There is an earlier local population
+8,Heraclea,Heraclea Pontica,41.28325533,31.41741367,Megara,6,NA,There is an earlier local population
+9,Tieion,None,41.57117437,32.03150954,Miletus,7,NA,NA
+10,Sinope,None,42.025776,35.143037,Miletus,8,7,NA
+11,Amisos,Amisus,41.292721,36.3313,Miletus,7,7,Perhaps there was an earlier local population
+12,Kotyora,Cotyorum,40.998428,37.870358,Sinope,7,NA,NA
+13,Kerasous,None,40.919134,38.397931,Sinope,NA,NA,NA
+14,Trapezus,None,41.0042695,39.7233115,Sinope,8,NA,There is an earlier local population
+15,Dioscurias,Sebastopolis,42.99833095,41.01117505,Miletus,6,6,NA
+16,Phanagoreia,Phanagoria,45.27625825,36.95966825,Teos,6,6,Perhaps there was an earlier local population
+17,Theodosia,None,45.04609,35.378768,Miletus,6,6,There is an earlier local population
+18,Chernonesos,Chernonesus Taurica,44.61109288,33.492258,Heraclea Pontica,5,6,There is an earlier local population
+19,Nymphaion,Nymphaeum,45.23667101,36.41767088,Miletus,NA,6,NA
+20,Kimmerikon,Cimmericum,45.042315,36.22459,NA,8,NA,NA
+21,Patous,Bata,44.733808,37.777299,NA,6,NA,NA
+22,Hermonassa,None,45.21905644,36.71410072,Miletus,6,6,Perhaps there was an earlier local population
+23,Phasis,None,42.135867,41.6923225,Miletus,6,6,There is an earlier local population
+24,Borysthenes,Olbia,46.5941693,31.4125394,Miletus,7,6,There is an earlier local population
+25,Tyras,None,46.2007555,30.350134,Miletus,6,6,Perhaps there was an earlier local population
+26,Kalos Limen,Kalos Limen,45.5172197,32.71412683,NA,6,NA,NA
+27,Kerkitinis,None,45.203672,33.361389,NA,8,NA,NA
+28,Gorgippia,None,44.89409175,37.3100281,Miletus,8,NA,NA
+29,Kytaia,Cytaion,45.25,36.25,Miletus,6,NA,NA
+30,Ilouraton,None,45.2856653,36.29214368,NA,4,NA,NA
+31,Tyritake,Tyriktake,45.27731203,36.40715298,Miletus,6,NA,Perhaps there was an earlier local population
+32,Korokondame,None,45.20462,36.614384,Miletus,6,NA,NA
+33,Nikonion,Nikonium,46.174801,30.4585,Miletus,6,NA,NA
+34,Krounoi,Dionysopolis,43.417781,28.1629075,Mesembria,6,NA,NA
+35,Pityous,Pitius,43.1615905,40.333311,Miletus,5,NA,NA
+36,Sesamos,Amastris,41.746969,32.385648,Miletus,8,NA,NA
+37,Salmydesos,Salmidessus,41.6347531,28.0957289,NA,4,NA,NA

@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: Humanities Data Modeling - Student Projects Showcase
+message: >-
+  If you reference these student projects, please cite them using the metadata
+  below. Each project folder also contains individual citation information.
+type: dataset
+authors:
+  - family-names: Students
+    name-particle: Course
+    given-names: Various
+    affiliation: >-
+      Foundations of Humanities Data Modeling and Formats Course
+description: >-
+  A collection of student projects demonstrating practical application of 
+  humanities data modeling principles. Projects showcase data format conversion, 
+  tidy data principles, and real-world datasets in ancient history, numismatics, 
+  epigraphy, and historical geography.
+keywords:
+  - humanities data
+  - digital humanities
+  - data modeling
+  - data formats
+  - CSV
+  - XML
+  - GeoJSON
+  - tidy data
+  - student projects
+license: CC-BY-4.0
+repository-code: https://github.com/Bestroi150/student-projects-showcase
+url: https://github.com/Bestroi150/student-projects-showcase
+repository-artifact: https://github.com/Bestroi150/student-projects-showcase
+version: 1.0.0
+date-released: '2026-01-01'
+preferred-citation:
+  type: dataset
+  title: Humanities Data Modeling - Student Projects Showcase
+  authors:
+    - family-names: Students
+      name-particle: Course
+      given-names: Various
+  year-published: 2026
+  url: https://github.com/Bestroi150/student-projects-showcase
+  license: CC-BY-4.0

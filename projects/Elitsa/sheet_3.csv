@@ -1,0 +1,31 @@
+POS,Count of POS
+ADJ,60
+ADV,43
+CONJ,67
+NOUN,280
+NUM,13
+PART,1
+PREP,76
+PRON,107
+PUNCT,163
+VERB,166
+(blank),
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Case,Count of Case
+Abl.,140
+Acc.,162
+Dat.,27
+Gen.,51
+NaN,488
+Nom.,108
+(blank),
