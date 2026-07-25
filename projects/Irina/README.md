@@ -367,7 +367,7 @@ You may:
 ## Citation
 
 **In-text citation:**
-> Greek colonies on the Black Sea coast were analyzed using geographic data (Irina, 2025-2026).
+> Greek colonies on the Black Sea coast were analyzed using geographic data (Irina Koleva, 2025-2026).
 
 **Full citation:**
 ```
