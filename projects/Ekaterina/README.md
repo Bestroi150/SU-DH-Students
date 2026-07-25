@@ -245,7 +245,7 @@ You may:
 
 **Full citation:**
 ```
-Ekaterina. Ancient Inscriptions: A TEI-XML Dataset.
+Ekaterina Dimitrova. Ancient Inscriptions: A TEI-XML Dataset.
 Foundations of Humanities Data Modeling and Formats Course. 2025-2026.
 https://github.com/Bestroi150/student-projects-showcase/tree/main/projects/Ekaterina
 ```
