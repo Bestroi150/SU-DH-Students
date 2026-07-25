@@ -371,7 +371,7 @@ You may:
 
 **Full citation:**
 ```
-Irina. Greek Colonization on the Black Sea: A Historical-Geographic Dataset.
+Irina Koleva. Greek Colonization on the Black Sea: A Historical-Geographic Dataset.
 Foundations of Humanities Data Modeling and Formats Course. 2025-2026.
 https://github.com/Bestroi150/student-projects-showcase/tree/main/projects/Irina
 ```
