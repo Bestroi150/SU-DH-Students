@@ -17,11 +17,11 @@ Together, these projects showcase how different formats can represent humanities
 
 ### Learning Objectives
 
-- ✓ Understand XML syntax and structure
-- ✓ Apply TEI markup standards for epigraphic data
-- ✓ Encode textual and metadata elements semantically
-- ✓ Create data suitable for digital humanities databases
-- ✓ Balance human readability with machine parsing
+-  Understand XML syntax and structure
+-  Apply TEI markup standards for epigraphic data
+-  Encode textual and metadata elements semantically
+-  Create data suitable for digital humanities databases
+-  Balance human readability with machine parsing
 
 ### File: `inscriptions-final.xml`
 
@@ -35,11 +35,11 @@ A structured XML document containing ancient inscriptions with full TEI encoding
 
 ### Learning Objectives
 
-- ✓ Understand relational data modeling for linguistic annotation
-- ✓ Implement controlled vocabularies for morphological tags
-- ✓ Structure corpus data for quantitative analysis
-- ✓ Create data dictionaries and metadata for linguistic resources
-- ✓ Design datasets for interdisciplinary use (corpus linguistics, digital humanities)
+-  Understand relational data modeling for linguistic annotation
+-  Implement controlled vocabularies for morphological tags
+-  Structure corpus data for quantitative analysis
+-  Create data dictionaries and metadata for linguistic resources
+-  Design datasets for interdisciplinary use (corpus linguistics, digital humanities)
 
 ### Files: `sheet_1.csv` through `sheet_4.csv`
 
@@ -79,11 +79,11 @@ A corpus of 39 sentences from Pliny the Younger's *Epistulae* 6.16, with detaile
 
 This dataset follows TEI standards and includes:
 
-✓ **Valid XML:** Validates against TEI schemas  
-✓ **Semantic markup:** Each element type has meaning  
-✓ **Encoding practices:** Follows established TEI conventions  
-✓ **Documentation:** Embedded metadata and comments  
-✓ **Accessibility:** Can be converted to other formats
+- **Valid XML:** Validates against TEI schemas
+- **Semantic markup:** Each element type has meaning  
+- **Encoding practices:** Follows established TEI conventions  
+- **Documentation:** Embedded metadata and comments  
+- **Accessibility:** Can be converted to other formats
 
 ## Working with the Data
 
