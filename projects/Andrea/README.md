@@ -141,15 +141,15 @@ This dataset implements FAIR principles:
 ## Reusing This Data
 
 You may:
-- ✓ Download and analyze the data
-- ✓ Create visualizations and derived works
-- ✓ Incorporate into your own research
-- ✓ Teach with or reference this data
+- Download and analyze the data
+- Create visualizations and derived works
+- Incorporate into your own research
+- Teach with or reference this data
 
 **You must:**
-- ✓ Provide attribution to Andrea and the course
-- ✓ Indicate if you've modified the data
-- ✓ Share any improvements back (recommended)
+-  Provide attribution to Andrea and the course
+-  Indicate if you've modified the data
+-  Share any improvements back (recommended)
 
 ## Citation
 
