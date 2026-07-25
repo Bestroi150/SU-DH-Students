@@ -241,7 +241,7 @@ You may:
 ## Citation
 
 **In-text citation:**
-> Inscriptions were encoded using TEI XML following international standards (Ekaterina, 2025-2026).
+> Inscriptions were encoded using TEI XML following international standards (Ekaterina Dimitrova, 2025-2026).
 
 **Full citation:**
 ```
