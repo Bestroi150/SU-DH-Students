@@ -244,9 +244,9 @@ If you are a student and would like to add your project:
 All student projects are licensed under **Creative Commons Attribution 4.0 International (CC-BY-4.0)**
 
 This means:
-- ✓ You are free to share, copy, and redistribute this material
-- ✓ You may adapt and create derivative works
-- ✓ You must give appropriate credit and indicate changes made
+- You are free to share, copy, and redistribute this material
+- You may adapt and create derivative works
+- You must give appropriate credit and indicate changes made
 
 See [LICENSE](LICENSE) for full details.
 
@@ -264,8 +264,8 @@ For questions about:
 ## Acknowledgments
 
 - Student contributors: Andrea, Ekaterina, Elitsa, Irina
-- Course instructor: [Your Name]
-- Institution: [Your Institution]
+- Course instructor: Kristiyan Simeonov
+- Institution: Sofia University "St. Kliment Ohridski"
 - Based on curriculum: Foundations of Humanities Data Modeling and Formats
 - Inspiration: Digital Humanities community and FAIR data initiatives
 
