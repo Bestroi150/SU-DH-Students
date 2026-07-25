@@ -149,14 +149,14 @@ This repository contains sample datasets covering a range of Digital Humanities 
 
 By exploring these projects, you will understand:
 
-How humanities scholars structure domain data  
-Real-world examples of tidy data principles  
-Multiple format representations (CSV, XML, JSON, GeoJSON)  
-Data quality and validation practices  
-Appropriate documentation for academic datasets  
-FAIR data principles in practice  
-Format conversion strategies  
-Metadata and citation best practices
+- How humanities scholars structure domain data  
+- Real-world examples of tidy data principles  
+- Multiple format representations (CSV, XML, JSON, GeoJSON)  
+- Data quality and validation practices  
+- Appropriate documentation for academic datasets  
+- FAIR data principles in practice  
+- Format conversion strategies  
+- Metadata and citation best practices
 
 ## Data Formats Overview
 
