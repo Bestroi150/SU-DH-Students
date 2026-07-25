@@ -228,15 +228,15 @@ This dataset implements FAIR principles:
 ## Reusing This Data
 
 You may:
-- ✓ Download and analyze the XML
-- ✓ Convert to other formats
-- ✓ Incorporate into digital humanities projects
-- ✓ Use for teaching and research
+- Download and analyze the XML
+- Convert to other formats
+- Incorporate into digital humanities projects
+- Use for teaching and research
 
 **You must:**
-- ✓ Provide attribution to Ekaterina
-- ✓ Indicate modifications made
-- ✓ Include license information
+-  Provide attribution to Ekaterina
+-  Indicate modifications made
+-  Include license information
 
 ## Citation
 
