@@ -186,12 +186,12 @@ This project uses a subset of TEI P5 elements suitable for epigraphic data:
 
 ## Collection and Methodology
 
-- **Data Source:** [Specify databases: Inscriptions of Aphrodisias, PHI Greek Inscriptions, etc.]
-- **Encoding Method:** Manual markup from transcriptions
-- **Collection Period:** [Specify date range of inscriptions]
-- **Geographic Scope:** [Specify regions: Attica, Asia Minor, Egypt, etc.]
-- **Sample Size:** [Number of inscriptions encoded]
-- **Quality Assurance:** [Specify validation methods]
+- **Data Source:** Inscriptiones Graecae (IG II/III³), and the Attic Inscriptions Online (AIO) database.
+- **Encoding Method:** Manual markup from transcriptions using Epidoc TEI XML standard (capturing line breaks, restorations, ligatures, and honorific formulas).
+- **Collection Period:** 4th c. BCE - 2nd c. CE  
+- **Geographic Scope:** Attica (primarily Athens, Piraeus, and the Attic demes)    
+- **Sample Size:** 15 selected inscriptions    
+- **Quality Assurance:** Double-blind verification of markup tags, and validation against the EpiDoc schema to ensure zero syntactical errors.
 
 ## Data Limitations
 
