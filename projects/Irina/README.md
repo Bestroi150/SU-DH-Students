@@ -17,11 +17,11 @@ Together, these projects demonstrate different methodological approaches in digi
 
 ### Learning Objectives
 
-- ✓ Structure geographic data for mapping and analysis
-- ✓ Integrate historical information with spatial coordinates
-- ✓ Design data for GIS visualization
-- ✓ Represent uncertainty and complexity in historical geography
-- ✓ Create datasets suitable for both tabular and geospatial analysis
+- Structure geographic data for mapping and analysis
+- Integrate historical information with spatial coordinates
+- Design data for GIS visualization
+- Represent uncertainty and complexity in historical geography
+- Create datasets suitable for both tabular and geospatial analysis
 
 ### File: `Greek_colonization_on_the_Black_Sea.csv`
 
@@ -37,11 +37,11 @@ A comprehensive CSV dataset containing:
 
 ### Learning Objectives
 
-- ✓ Apply TEI markup standards to literary texts
-- ✓ Combine qualitative and quantitative text analysis methods
-- ✓ Use digital humanities tools (VoyantTools, DH Text Microscope)
-- ✓ Integrate Excel data analysis with XML markup
-- ✓ Create reproducible digital scholarship
+-  Apply TEI markup standards to literary texts
+-  Combine qualitative and quantitative text analysis methods
+-  Use digital humanities tools (VoyantTools, DH Text Microscope)
+-  Integrate Excel data analysis with XML markup
+-  Create reproducible digital scholarship
 
 ### File: `TEI_Satirikon_76glava.xml`
 
@@ -353,16 +353,16 @@ This dataset implements FAIR principles:
 ## Reusing This Data
 
 You may:
-- ✓ Download and analyze the geographic data
-- ✓ Create maps and visualizations
-- ✓ Incorporate into GIS projects
-- ✓ Use for teaching and research
-- ✓ Perform spatial analysis
+-  Download and analyze the geographic data
+-  Create maps and visualizations
+-  Incorporate into GIS projects
+-  Use for teaching and research
+-  Perform spatial analysis
 
 **You must:**
-- ✓ Attribute the dataset to Irina
-- ✓ Document any modifications
-- ✓ Include appropriate attribution
+-  Attribute the dataset to Irina
+-  Document any modifications
+-  Include appropriate attribution
 
 ## Citation
 
