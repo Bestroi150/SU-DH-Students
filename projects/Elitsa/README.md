@@ -257,15 +257,15 @@ This dataset implements FAIR principles:
 ## Reusing This Data
 
 You may:
-- ✓ Download and analyze the datasets
-- ✓ Join and merge the data
-- ✓ Create derivative analyses
-- ✓ Use for teaching and research
+- Download and analyze the datasets
+- Join and merge the data
+- Create derivative analyses
+- Use for teaching and research
 
 **You must:**
-- ✓ Attribute the datasets to Elitsa
-- ✓ Document any modifications
-- ✓ Include appropriate licensing
+-  Attribute the datasets to Elitsa
+-  Document any modifications
+-  Include appropriate licensing
 
 ## Citation
 
