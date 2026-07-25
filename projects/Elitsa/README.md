@@ -17,11 +17,11 @@ Together, these projects showcase how to structure complex humanities data for b
 
 ### Learning Objectives
 
-- ✓ Design related datasets with proper referential integrity
-- ✓ Structure data for comparative analysis
-- ✓ Use consistent identifiers across multiple files
-- ✓ Implement foreign key relationships in flat files
-- ✓ Maintain data consistency and validation across sheets
+-  Design related datasets with proper referential integrity
+-  Structure data for comparative analysis
+-  Use consistent identifiers across multiple files
+-  Implement foreign key relationships in flat files
+-  Maintain data consistency and validation across sheets
 
 ### Files Included
 
@@ -33,11 +33,11 @@ Together, these projects showcase how to structure complex humanities data for b
 
 ### Learning Objectives
 
-- ✓ Structure documentation for 3D-scanned cultural artifacts
-- ✓ Link 3D models with metadata and measurements
-- ✓ Implement METS (Metadata Encoding & Transmission Standard) for complex objects
-- ✓ Preserve digital cultural heritage with multiple data formats
-- ✓ Design systems for long-term accessibility of 3D content
+-  Structure documentation for 3D-scanned cultural artifacts
+-  Link 3D models with metadata and measurements
+-  Implement METS (Metadata Encoding & Transmission Standard) for complex objects
+-  Preserve digital cultural heritage with multiple data formats
+-  Design systems for long-term accessibility of 3D content
 
 ### Files and Directories
 
@@ -83,11 +83,11 @@ sheet_3.csv (Analytical results)
 
 This dataset follows rigorous standards:
 
-✓ **Referential integrity:** All foreign keys reference valid primary keys  
-✓ **Normalization:** Data organized to minimize redundancy  
-✓ **Consistency:** Identical values use consistent formatting across files  
-✓ **Validation:** Automated checks for referential relationships  
-✓ **Documentation:** Clear field descriptions and usage patterns  
+- **Referential integrity:** All foreign keys reference valid primary keys  
+- **Normalization:** Data organized to minimize redundancy  
+- **Consistency:** Identical values use consistent formatting across files  
+- **Validation:** Automated checks for referential relationships  
+- **Documentation:** Clear field descriptions and usage patterns  
 
 ## Working with the Data
 
@@ -270,11 +270,11 @@ You may:
 ## Citation
 
 **In-text citation:**
-> Comparative analysis was performed using interconnected datasets (Elitsa, 2025-2026).
+> Comparative analysis was performed using interconnected datasets (Elitsa Lilova, 2025-2026).
 
 **Full citation:**
 ```
-Elitsa. Multi-Sheet Comparative Dataset Analysis.
+Elitsa Lilova. Multi-Sheet Comparative Morphological Dataset Analysis.
 Foundations of Humanities Data Modeling and Formats Course. 2025-2026.
 https://github.com/Bestroi150/student-projects-showcase/tree/main/projects/Elitsa
 ```
@@ -282,7 +282,7 @@ https://github.com/Bestroi150/student-projects-showcase/tree/main/projects/Elits
 **BibTeX:**
 ```bibtex
 @dataset{elitsa_comparative_2026,
-  title={Multi-Sheet Comparative Dataset Analysis},
+  title={Multi-Sheet Comparative Morphological Dataset Analysis},
   author={Elitsa Lilova},
   year={2026},
   url={https://github.com/Bestroi150/student-projects-showcase/tree/main/projects/Elitsa},
